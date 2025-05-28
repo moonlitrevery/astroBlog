@@ -1,4 +1,6 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
+
 title: 'Test post v2'
 pubDate: 2025-05-27
 description: 'Second post, following the tutorial.'
@@ -9,8 +11,6 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 ---
 # My First Blog Post
-
-Published on: 2025-05-27
 
 ok, testing
 
